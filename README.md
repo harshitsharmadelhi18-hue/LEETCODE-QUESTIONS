@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [0443-string-compression](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0443-string-compression) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
