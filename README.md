@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0912-sort-an-array](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
