@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0054-spiral-matrix) |
+| [0503-next-greater-element-ii](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0912-sort-an-array](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
 ## Math
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
