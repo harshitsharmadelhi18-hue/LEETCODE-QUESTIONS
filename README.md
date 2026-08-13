@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0443-string-compression) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
