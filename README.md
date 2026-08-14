@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0054-spiral-matrix) |
 | [0496-next-greater-element-i](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0503-next-greater-element-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -143,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
