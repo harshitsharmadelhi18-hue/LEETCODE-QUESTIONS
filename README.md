@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0062-unique-paths) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/harshitsharmadelhi18-hue/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Combinatorics
 |  |
 | ------- |
